@@ -10,7 +10,7 @@ JavaScript dilinin temel işleyişi derinlemesine inceleyen kitap serisi.
 
 ## Başlıklar
 
-- [Giriş ve İlerleme]("up & going/README.md#you-dont-know-js-up--going") | _(orj: 'Up & Going')_
+- [Giriş ve İlerleme](up%20&%20going/README.md)
 - [Scope ve Closure'lar]("scope & closures/README.md#you-dont-know-js-scope--closures") | _(orj: 'Scope & Closures')_
 - [this ve Obje Prototype'ları]("this & object prototypes/README.md#you-dont-know-js-this--object-prototypes") | _(orj: 'this & Object Prototypes')_
 - [Tipler ve Gramer]("types & grammar/README.md#you-dont-know-js-types--grammar") | _(orj: 'Types & Grammar')_
