@@ -11,10 +11,10 @@ JavaScript dilinin temel işleyişi derinlemesine inceleyen kitap serisi.
 ## Başlıklar
 
 - [Giriş ve İlerleme](up%20&%20going/README.md)
-- [Scope ve Closure'lar]("scope & closures/README.md#you-dont-know-js-scope--closures") | _(orj: 'Scope & Closures')_
-- [this ve Obje Prototype'ları]("this & object prototypes/README.md#you-dont-know-js-this--object-prototypes") | _(orj: 'this & Object Prototypes')_
-- [Tipler ve Gramer]("types & grammar/README.md#you-dont-know-js-types--grammar") | _(orj: 'Types & Grammar')_
-- [Asenkron ve Performans]("async & performance/README.md#you-dont-know-js-async--performance") | _(orj: 'Async & Performance')_
+- [Scope ve Closure'lar](scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
+- [this ve Obje Prototype'ları](this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
+- [Tipler ve Gramer](types%20&%20grammar/README.md#you-dont-know-js-types--grammar)
+- [Asenkron ve Performans](async%20&%20performance/README.md#you-dont-know-js-async--performance)
 - "ES6 ve Ötesi" (yazımı sürüyor), _(orj: 'ES6 & Beyond')_
 
 ## Çeviri Önsözü
