@@ -10,16 +10,16 @@ JavaScript dilinin temel işleyişi derinlemesine inceleyen kitap serisi.
 
 ## Başlıklar
 
-* ["Giriş ve İlerleme"](up & going/README.md#you-dont-know-js-up--going), *(orj: 'Up & Going')*
-* ["Scope ve Closure'lar"](scope & closures/README.md#you-dont-know-js-scope--closures), *(orj: 'Scope & Closures')*
-* ["this ve Obje Prototype'ları"](this & object prototypes/README.md#you-dont-know-js-this--object-prototypes), *(orj: 'this & Object Prototypes')*
-* ["Tipler ve Gramer"](types & grammar/README.md#you-dont-know-js-types--grammar), *(orj: 'Types & Grammar')*
-* ["Asenkron ve Performans"](async & performance/README.md#you-dont-know-js-async--performance), *(orj: 'Async & Performance')*
-* "ES6 ve Ötesi" (yazımı sürüyor), *(orj: 'ES6 & Beyond')* 
+- [Giriş ve İlerleme]("up & going/README.md#you-dont-know-js-up--going"), _(orj: 'Up & Going')_
+- [Scope ve Closure'lar]("scope & closures/README.md#you-dont-know-js-scope--closures"), _(orj: 'Scope & Closures')_
+- [this ve Obje Prototype'ları]("this & object prototypes/README.md#you-dont-know-js-this--object-prototypes"), _(orj: 'this & Object Prototypes')_
+- [Tipler ve Gramer]("types & grammar/README.md#you-dont-know-js-types--grammar"), _(orj: 'Types & Grammar')_
+- [Asenkron ve Performans]("async & performance/README.md#you-dont-know-js-async--performance"), _(orj: 'Async & Performance')_
+- "ES6 ve Ötesi" (yazımı sürüyor), _(orj: 'ES6 & Beyond')_
 
 ## Çeviri Önsözü
 
-Bu çalışma Kyle Simpson tarafından yazılmış olan "You Don't Know JS" serisinin Türkçe çevirisidir. Kitapları orijinal dilinde satın almak veya kitaplara çeviri hatası dışındaki konularda katkıda bulunmak için lütfen ana repoyu ziyaret ediniz. Bu repoya çeviri hataları / düzeltmeleri veya iyileştirmeleri için PR gönderebilirsiniz. 
+Bu çalışma Kyle Simpson tarafından yazılmış olan "You Don't Know JS" serisinin Türkçe çevirisidir. Kitapları orijinal dilinde satın almak veya kitaplara çeviri hatası dışındaki konularda katkıda bulunmak için lütfen ana repoyu ziyaret ediniz. Bu repoya çeviri hataları / düzeltmeleri veya iyileştirmeleri için PR gönderebilirsiniz.
 
 ## Lisans & Telif Hakkı
 
